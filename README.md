@@ -18,6 +18,14 @@ Hypothesis 2
 2c: Month over Month Base Revenue Growth: how fast has Uber grown in the period?
 2d: Cummulative Revenue Growth Percentage from September 2014.
 
+Hypothesis 3
+Drop in the revenue growth for NYC Yellow cab service in the era dominated by for-hire-service
+
+3 a: Visualizing the demand: number of Yellow Cab trips per day.
+3 b: The effect of time on demand for Yelow Cab serive: distribution per hour, weekday, and month
+3 c: Estimated Monthly Base Revenue: The NYC market worth in the period
+
+
 What we are going to do:
 Visualize NYC's cab services: 1. Yellow cab service 2. FHV Cab Service 3. Uber 
 
