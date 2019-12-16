@@ -54,15 +54,12 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 *Drop in the revenue growth for NYC Yellow cab service in the era dominated by for-hire-service
 ## Analysis
 3 a: Visualizing the demand: number of Yellow Cab trips per day.<br />
-
 ![](icons/Image_12.PNG)
 
 3 b: Estimating the effect of time on demand for Yelow Cab serive: distribution per hour, weekday, and month <br />
-
 ![](icons/Image_13.PNG)
 
 3 c: Analyzing Monthly Base Revenue: The NYC market worth in the period
-
 ![](icons/Image_14.PNG)
 
 ## Datasets used:
