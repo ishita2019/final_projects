@@ -49,7 +49,7 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 
 2d: Cummulative Revenue Growth Percentage for Uber cab service.
 
-<img src = "icons/Image_10.PNG" width ="500" height="250" >
+<img src = "icons/Image_10_1.PNG" width ="500" height="250" >
 
 ## Hypothesis 3
 *Drop in the revenue growth for NYC Yellow cab service in the era dominated by for-hire-service
