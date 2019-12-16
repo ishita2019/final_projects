@@ -1,8 +1,9 @@
 # IS 590PR Final Project - Type 2
 
-## Project Name:** Cab Service Data Analysis of NYC data
+## Project Name:
+Cab Service Data Analysis of NYC data
 
-**Group members:**
+## Group members:
 Ishita Ghosh (ishita2019)
 Dipika Jiandani (dipika7)
 Sayali Mohite (mohite2)
