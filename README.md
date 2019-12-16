@@ -15,19 +15,18 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 ## Analysis
 1a: Finding out the relationship between tipping rates and the Pick up and Drop off locations <br />
 
-![](icons/Image_1.PNG)
+![Alt text](icons/Image_1.PNG)
 
 1b: Determining the most popular pick up and drop off locations in NYC <br />
 
-![](icons/Image_2.PNG)
+![Alt text](icons/Image_2.PNG)
 
 1c: Analyzing if there's a correlation between tipping rates and the weekdays <br />
 
 ![](icons/Image_3.PNG)   
 
-![](icons/Image_4.PNG)
+![](icons/Image_4_5.PNG)
 
-![](icons/Image_5.PNG)
 
 ## Hypothesis 2 
 *Increase in Revenue Growth for Uber dataset.
