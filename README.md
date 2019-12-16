@@ -27,7 +27,7 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 # Hypothesis 2 
 *Increase in Revenue Growth for Uber dataset.
 # Analysis
-2a: Visualizing the demand: number of Uber trips per day.
+2a: Visualizing the demand: number of Uber trips per day.<br />
 2b: The effect of time on demand for Uber rides: distribution per month(Peak hours versus Off-Peak hours).
 2c: Month over Month Base Revenue Growth: how fast has Uber grown in the period?
 2d: Cummulative Revenue Growth Percentage for Uber cab service.
