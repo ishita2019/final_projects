@@ -8,16 +8,13 @@ Ishita Ghosh (ishita2019)
 Dipika Jiandani (dipika7)
 Sayali Mohite (mohite2)
 
-### Project Discription:
+## Project Discription:
 Yellow Cabdrivers are struggling to survive in the era dominated by Uber and striving to fight a losing battle. New York yellow cab service has the largest cab fleets in the US & they are facing extinction. According to reports, approximately 40% of the 7000 strong cab fleet had not had an average rate.
-
-**Project Types:** Type II
 
 ## Hypothesis 1 
 Metropolitan areas of NYC have higher tipping rates considering the income level of the people living in these areas.<br />
 ## Analysis
-
-We have two datasets where in we have merged the pick-off and drop-off location. One of the datasets has the actual income and the other has a generic expected income.
+We have analyzed, the relationship between pick-off locations of trips and corresponding tipping rates.This is achived by mergering the yellow trip 2019 dataset with taxi-lookup dataset to get the pick-up location in particular zone. After detailed analysis, we can concluded that Metropolitan areas of NYC have lower tipping rates with respect to the income level of the people.
 
 1a: Finding out the relationship between tipping rates and the Pick up and Drop off locations <br />
 
@@ -38,7 +35,10 @@ We have two datasets where in we have merged the pick-off and drop-off location.
 
 ## Hypothesis 2 
 Relationship between number of uber trip and cumulative revenue Growth for Uber dataset.
+
 ## Analysis
+We have analyzed, the relationship Uber trips and revenue growth.We have also taken weekends/holidays into consederation. After detailed analysis, we can concluded that the number of uber trips are increasing month over month with corresponding increase in the cumulative revenue growth.
+
 2a: Visualizing the demand: number of Uber trips per day.<br />
 
 <img src = "icons/Image_6.PNG" width ="650" height="300" >
@@ -55,11 +55,11 @@ Relationship between number of uber trip and cumulative revenue Growth for Uber 
 
 <img src = "icons/Image_11.png" width ="650" height="300" >
 
-Here we can see that the number of uber trips are increasing month over month with corresponding increase in the cumulative revenue growth.Hence, we can accept the Hypothesis.
-
 ## Hypothesis 3
 Drop in the revenue growth for NYC Yellow cab service in the era dominated by for-hire-service.<br />
 ## Analysis
+We have observed, the demand of yellow cab service daily basis, increase in demand on monthly baisi,and it's revenue growth month over month and revenue growth.We have considered the time slot of 365 days of 2019. After detailed analysis, we can concluded that the number of yellow cab trips are increasing month over month while the average estimated revenue is decreasing.
+
 3 a: Visualizing the demand: number of Yellow Cab trips per day.<br />
 
 <img src = "icons/Image_12.png" width ="500" height="300" >
@@ -81,7 +81,6 @@ Yellow Cab Data 2019
 FHV Cab Data 2019
 Uber Collated data
 Taxi-zone Lookup 
-
  
 ## Required Packages:
 The code is written in a Jupyter Notebook and using following packages:
@@ -90,3 +89,9 @@ Numpy (version: 1.11.2)
 Pandas (version: 0.19.2)
 Matplotlib (version: 1.5.3)
 Seaborn (version: 0.6.0)
+
+## Citation:
+https://github.com/geoninja/Uber-Data-Analysis
+
+## Presentation link:
+https://drive.google.com/file/d/1_N8dI5Rb6wCJAa0yos8ez56d5VKNVbJF/view?usp=sharing
