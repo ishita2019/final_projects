@@ -25,8 +25,7 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 
 <img src = "icons/Image_3.PNG" width ="500" height="250" >
 
-## Checkkkkkk
-<img src = "icons/Image_43.PNG" width ="650" height="400" >
+<img src = "icons/Image_43.PNG" width ="6500" height="400" >
 
 
 
