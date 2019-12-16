@@ -38,7 +38,7 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 
 2b: The effect of time on demand for Uber rides: distribution per month(Peak hours versus Off-Peak hours).<br />
 
-<img src = "icons/Image_7a" width ="650" height="400" >
+
 
 2c: Month over Month Base Revenue Growth: how fast has Uber grown in the period? <br />
 
