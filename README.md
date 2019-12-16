@@ -14,9 +14,9 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 *Metropolitan areas of NYC have higher tipping rates considering the income level of the people living in these areas.
 # Analysis
 1a: Finding out the relationship between tipping rates and the Pick up and Drop off locations. 
+
 ![Alt text](/relative/C:/Users/mohite2/Desktop/PR _Final Sayali/Dipika_1.PNG")
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 ![Image description](C:/Users/mohite2/Desktop/PR _Final Sayali/Dipika_1.PNG)
 
 "C:/Users/mohite2/Desktop/PR _Final Sayali/Dipika_1.PNG"
