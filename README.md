@@ -4,9 +4,9 @@
 Cab Service Data Analysis of NYC data
 
 ## Group members:
-Ishita Ghosh (ishita2019)
-Dipika Jiandani (dipika7)
-Sayali Mohite (mohite2)
+Ishita Ghosh (ishita2019)<br />
+Dipika Jiandani (dipika7)<br />
+Sayali Mohite (mohite2)<br />
 
 ## Project Discription:
 Yellow Cabdrivers are struggling to survive in the era dominated by Uber and striving to fight a losing battle. New York yellow cab service has the largest cab fleets in the US & they are facing extinction. According to reports, approximately 40% of the 7000 strong cab fleet had not had an average rate.
