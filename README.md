@@ -38,17 +38,13 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 
 2b: The effect of time on demand for Uber rides: distribution per month(Peak hours versus Off-Peak hours).<br />
 
-![](icons/Image_7a)
-
-![](icons/Image_11)
-
 2c: Month over Month Base Revenue Growth: how fast has Uber grown in the period? <br />
 
 <img src = "icons/Image_9.PNG" width ="500" height="250" >
 
 2d: Cummulative Revenue Growth Percentage for Uber cab service.
 
-<img src = "icons/Image_10_1.PNG" width ="500" height="250" >
+
 
 ## Hypothesis 3
 *Drop in the revenue growth for NYC Yellow cab service in the era dominated by for-hire-service
