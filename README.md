@@ -35,34 +35,34 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 ## Analysis
 2a: Visualizing the demand: number of Uber trips per day.<br />
 
-<img src = "icons/Image_6.PNG" width ="650" height="400" >
+<img src = "icons/Image_6.PNG" width ="650" height="300" >
 
 2b: The effect of time on demand for Uber rides: distribution per month(Peak hours versus Off-Peak hours).<br />
 
-<img src = "icons/Image_7" width ="650" height="400" >
+<img src = "icons/Image_7" width ="500" height="250" >
 
-<img src = "icons/Image_11.PNG" width ="650" height="400" >
+<img src = "icons/Image_11.PNG" width ="500" height="250" >
 
 2c: Month over Month Base Revenue Growth: how fast has Uber grown in the period? <br />
 
-<img src = "icons/Image_9.PNG" width ="650" height="400" >
+<img src = "icons/Image_9.PNG" width ="500" height="250" >
 
 2d: Cummulative Revenue Growth Percentage for Uber cab service.
 
-<img src = "icons/Image_10.PNG" width ="650" height="400" >
+<img src = "icons/Image_10.PNG" width ="500" height="250" >
 
 ## Hypothesis 3
 *Drop in the revenue growth for NYC Yellow cab service in the era dominated by for-hire-service
 ## Analysis
 3 a: Visualizing the demand: number of Yellow Cab trips per day.<br />
 
-<img src = "icons/Image_12.PNG" width ="650" height="400" >
+<img src = "icons/Image_12.PNG" width ="500" height="250" >
 
 3 b: Estimating the effect of time on demand for Yelow Cab serive: distribution per hour, weekday, and month <br />
 <img src = "icons/Image_13.PNG" width ="650" height="400" >
 
 3 c: Analyzing Monthly Base Revenue: The NYC market worth in the period
-<img src = "icons/Image_14.PNG" width ="650" height="400" >
+<img src = "icons/Image_14.PNG" width ="500" height="250" >
 
 ## Datasets used:
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
