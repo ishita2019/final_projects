@@ -15,27 +15,55 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 ## Analysis
 1a: Finding out the relationship between tipping rates and the Pick up and Drop off locations <br />
 
-![](icons/Dipika_1.PNG)
+![](icons/Image_1.PNG)
 
 1b: Determining the most popular pick up and drop off locations in NYC <br />
 
+![](icons/Image_2.PNG)
 
 1c: Analyzing if there's a correlation between tipping rates and the weekdays <br />
+
+![](icons/Image_3.PNG)   
+
+![](icons/Image_4.PNG)
+
+![](icons/Image_5.PNG)
 
 ## Hypothesis 2 
 *Increase in Revenue Growth for Uber dataset.
 ## Analysis
 2a: Visualizing the demand: number of Uber trips per day.<br />
+
+![](icons/Image_6.PNG)
+
 2b: The effect of time on demand for Uber rides: distribution per month(Peak hours versus Off-Peak hours).<br />
+
+![](icons/Image_7.PNG)
+
+![](icons/Image_11.PNG)
+
 2c: Month over Month Base Revenue Growth: how fast has Uber grown in the period? <br />
+
+![](icons/Image_9.PNG)
+
 2d: Cummulative Revenue Growth Percentage for Uber cab service.
+
+![](icons/Image_10.PNG)
 
 ## Hypothesis 3
 *Drop in the revenue growth for NYC Yellow cab service in the era dominated by for-hire-service
 ## Analysis
 3 a: Visualizing the demand: number of Yellow Cab trips per day.<br />
+
+![](icons/Image_12.PNG)
+
 3 b: Estimating the effect of time on demand for Yelow Cab serive: distribution per hour, weekday, and month <br />
+
+![](icons/Image_13.PNG)
+
 3 c: Analyzing Monthly Base Revenue: The NYC market worth in the period
+
+![](icons/Image_14.PNG)
 
 ## Datasets used:
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
