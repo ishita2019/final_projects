@@ -17,7 +17,7 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 
 ![Alt text](/relative/C:/Users/mohite2/Desktop/PR _Final Sayali/Dipika_1.PNG")
 
-![Image description](C:/Users/mohite2/Desktop/PR _Final Sayali/Dipika_1.PNG)
+![Dipika_1](C:/Users/mohite2/Desktop/PR _Final Sayali/Dipika_1.PNG)
 
 "C:/Users/mohite2/Desktop/PR _Final Sayali/Dipika_1.PNG"
 
