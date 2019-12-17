@@ -43,15 +43,23 @@ We have analyzed, the relationship Uber trips and revenue growth.We have also ta
 
 <img src = "icons/Image_6.PNG" width ="650" height="300" >
 
-2b: The effect of time on demand for Uber rides: distribution per month(Peak hours versus Off-Peak hours).<br />
+2b: Analysing effect of time on demand for Uber rides: distribution per hour, day and month.<br />
 
 <img src = "icons/Image_70.png" width ="650" height="500" >
 
-2c: Month over Month Base Revenue Growth: how fast has Uber grown in the period? <br />
+2c: What is Month over Month Base Revenue Growth: how fast has Uber grown in the period? <br />
 
 <img src = "icons/Image_9.PNG" width ="500" height="250" >
 
-2d: Cummulative Revenue Growth Percentage for Uber cab service.
+2d: Can we estimate Monthly Base Revenue: Does it answer how much was the NYC market worth in the period?<br />
+
+<img src = "icons/Image_10.PNG" width ="500" height="250" >
+
+2e: Concluding Cummulative Revenue Growth Percentage.<br />
+
+<img src = "icons/Image_12.PNG" width ="650" height="300" >
+
+2f: Was there any significant change in Demand of Rides per Month - Peak versus Off-Peak Hours?<br />
 
 <img src = "icons/Image_11.png" width ="650" height="300" >
 
