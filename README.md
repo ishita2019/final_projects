@@ -58,7 +58,7 @@ We have analyzed, the relationship Uber trips and revenue growth.We have also ta
 ## Hypothesis 3
 Drop in the revenue growth for NYC Yellow cab service in the era dominated by for-hire-service.<br />
 ## Analysis
-We have observed, the demand of yellow cab service daily basis, increase in demand on monthly baisi,and it's revenue growth month over month and revenue growth.We have considered the time slot of 365 days of 2019. After detailed analysis, we can concluded that the number of yellow cab trips are increasing month over month while the average estimated revenue is decreasing.
+We have observed, the demand of yellow cab service daily basis, increase in demand on monthly basis,and it's revenue growth month over month.We have considered the time slot of 365 days of 2019. After detailed analysis, we can concluded that the number of yellow cab trips are increasing month over month while the average estimated revenue is decreasing.
 
 3 a: Visualizing the demand: number of Yellow Cab trips per day.<br />
 
