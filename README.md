@@ -14,7 +14,7 @@ Yellow Cabdrivers are struggling to survive in the era dominated by Uber and str
 ## Hypothesis 1 
 Metropolitan areas of NYC have higher tipping rates considering the income level of the people living in these areas.<br />
 ## Analysis
-We have analyzed, the relationship between pick-off locations of trips and corresponding tipping rates.This is achived by mergering the yellow trip 2019 dataset with taxi-lookup dataset to get the pick-up location in particular zone. After detailed analysis, we can concluded that Metropolitan areas of NYC have lower tipping rates with respect to the income level of the people.
+We analyzed the relationship between pick-off locations of trips and corresponding tipping rates. We merged the yellow trip 2019 dataset with taxi-lookup dataset to get the pick-up location with respect to specific zones and boroughs. After detailed analysis and pre-processing of the raw csv files, we concluded that the Metropolitan areas of NYC like EWR, Manhattan and Queens that supposedly have high income level people and residents actually have higher tipping rates. Also, out of curiosity, we calculated the tipping rates in comparison to the different days of the week. The trend shows that the total tips received during the mid-week is more as compared to the weekends.
 
 1a: Finding out the relationship between tipping rates and the Pick up and Drop off locations <br />
 
